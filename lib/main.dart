@@ -103,7 +103,7 @@ class _MyHomePageState extends State<MyHomePage> {
            TextSpan(
           // Column(
           children: <InlineSpan>[
-            const TextSpan(text: 'RichText helps to creat\n',style: TextStyle(
+            const TextSpan(text: 'RichText helps to create\n',style: TextStyle(
               color:Colors.black54,
               fontSize: 22,
               ),
