@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<h2>➡️ Quick-Starter2 Lec</h2>
+<hr>
+<p>
+  <a href ="https://github.com/Prafulpatnecha/quickstarterpage1?authuser=0">
+  <img src="https://github.com/Prafulpatnecha/Quick-Starter/assets/144161200/142973f7-863f-4f92-a87c-280dc397b445" width="22%" Height="35%">
+  </a>
+  </p>
+<hr>
